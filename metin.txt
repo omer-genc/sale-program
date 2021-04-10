@@ -1,0 +1,41 @@
+Satış
+    Satış Ön İşlem
+        1. Son Fatura Numarası Bul 
+        2. Müşteri Numarası Bul   
+    Ürün Satış
+        3. Ürün No Bul
+        4. Miktar Bilgisi Gir
+    Satış Son İşlem 
+        5. Kargo Tutarı Hesapla
+        6. Fatura Oluştur
+               
+Müşteri Bilgisi
+    7. Tüm müşteriler
+    8. Müşteri tipine göre
+    9. Bir müşteri
+     
+Ürün Bilgisi
+    10. Tüm ürünler
+    11. Ürün tipine göre
+    12. Bir ürün
+
+Müşteri Analizleri
+    13. Bir müşterinin satın aldığı ürünler
+    14. Bir müşterinin satın aldığı toplamtutar
+    15. Tüm müşterinin satın aldığı ürünlerin toplam tutarı
+    16. Müşterilerin kargo ücreti
+
+Ürün Analizleri
+    17. Bir ürünün toplam satış tutarı
+    18. Bir ürün tipinin toplam satış tutarı
+    19. Tüm ürünlerin toplam satış tutarı
+
+Ekle/Sil Menüsü 
+    20. Müşteri Ekle
+    21. Müşteri Sil
+    22. Ürün Ekle
+    23. Ürün Sil
+    24. Fatura Ekle
+    25. Fatura Sil
+
+Çıkış ----> 0
